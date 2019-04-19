@@ -1,0 +1,7 @@
+search_tweets_api:
+  account_type: premium
+  endpoint: https://api.twitter.com/1.1/tweets/search/fullarchive/BTG.json
+  consumer_key: bo2WGXrbXKrKxKxpX7do4gFgN
+  consumer_secret: qcHIB8ix5qNUiU4mh97vKesGjHnuloY3ahZMNHC1M9mnGn87IX
+
+
